@@ -1,0 +1,3 @@
+npm create vite@lastest my-app
+cd my-appnpm install
+npm run devdir
